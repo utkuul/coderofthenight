@@ -6,8 +6,8 @@ The beginning page shows the data table of users according to the user database.
 
 ## Beginning Page
 
-- The table must cover "User ID", "User Name", "Email", and "Enabled" components as a column.
-- And there must be a “new user” button and a “hide disabled user” checkbox.
+- The table must consist of "User ID", "User Name", "Email", and "Enabled" components as a column.
+- And there must be a “New User” button and a “Hide Disabled User” checkbox.
 
 >The design of the user table is must be like this:
 
