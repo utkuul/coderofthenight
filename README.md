@@ -24,13 +24,11 @@ The beginning page shows the data table of users according to the user database.
 
 
 
-## Other Page
+## Form Page
 
-This page must work when the user clicked on the new user button.
+>This page must work when the user clicked on the new user button.
 
-It shows a form to the user. Form specifications:
-
-
+>It shows a form to the user. Form specifications:
 
 -The form must ask to user Username, Display Name, Phone, Email, User Roles, Enabled options.
 
