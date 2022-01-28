@@ -36,7 +36,7 @@ It shows a form to the user. Form specifications:
 
 -Username, Display Name, Phone, Email components must be formed as entries.
 
--User Roles component must give options to the user, such as Guest, Admin, and SuperAdmin, the user must be able to choose any of them.
+-User Roles component must give three options to the user, as Guest, Admin, and SuperAdmin, the user must be able to choose any of them.
 
 -The enabled component is must be a checkbox.
 
